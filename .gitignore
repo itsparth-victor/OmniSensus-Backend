@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+*.log
+.DS_Store
+Thumbs.db
+generate.py
+- Copy.env(for backend)
+exports\reports
