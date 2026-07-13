@@ -45,6 +45,10 @@ python manage.py runserver
 uvicorn app:app --reload
 ```
 
+### Database Setup
+
+**Note:** Please ensure you run the database file (`database/omnisensus.sql`) in a local PostgreSQL environment before starting the server.
+
 ---
 
 ## Configuration
